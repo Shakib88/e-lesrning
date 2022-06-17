@@ -1,3 +1,5 @@
+//MONGO_URI=mongodb://localhost:27017/Speaking Courseapp
+
 require('dotenv').config();
 const express = require('express');
 const http = require('http');
